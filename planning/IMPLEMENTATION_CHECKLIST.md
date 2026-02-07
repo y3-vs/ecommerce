@@ -13,10 +13,10 @@ Based on PRD Version 1.0 | Generated: February 7, 2026
 - [x] Set up folder structure and basic layout
 
 ### Database Setup
-- [ ] Set up PostgreSQL database
-- [ ] Configure Prisma ORM
-- [ ] Define database schema (Products, Users, Basket, Addresses, Orders)
-- [ ] Create Prisma migrations
+- [x] Set up PostgreSQL database (requires PostgreSQL installation - see README)
+- [x] Configure Prisma ORM
+- [x] Define database schema (Products, Users, Basket, Addresses, Orders)
+- [ ] Create Prisma migrations (run after PostgreSQL is installed)
 
 ### State Management
 - [ ] Configure state management (React Context or Zustand)
